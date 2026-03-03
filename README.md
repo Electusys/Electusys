@@ -1,42 +1,107 @@
-# Electusys
+Yiğit Ali Mercan
+Software Developer | Network Systems & Infrastructure Engineer
 
-### Software Developer & Network Systems Specialist
+Çok katmanlı yazılım mimarileri, ağ altyapı sistemleri ve veri yönetimi üzerine uzmanlaşma hedefiyle çalışmalar yürüten bir yazılım geliştiricisiyim.
 
-Çok katmanlı yazılım geliştirme süreçleri ve ağ altyapıları üzerine odaklanmış bir geliştiriciyim. Algoritma mantığı, veri yönetimi ve güvenli ağ konfigürasyonları temel çalışma alanlarımı oluşturmaktadır.
+Yazılım geliştirme süreçlerinde analitik düşünceyi, algoritmik problem çözme yaklaşımını ve sistematik tasarım prensiplerini esas alırım. Uygulama katmanı ile altyapı katmanı arasındaki ilişkiyi bütüncül bir perspektifle ele alarak performans, güvenlik ve ölçeklenebilirlik odaklı çözümler üretirim.
 
----
+Amacım; backend sistemlerden ağ konfigürasyonlarına, veri yönetiminden sistem entegrasyonuna kadar uçtan uca teknik yetkinlik geliştirmek ve kurumsal ölçekte sürdürülebilir sistemler inşa etmektir.
 
-### Teknik Yetkinlikler
+Teknik Yetkinlikler
+Programlama Dilleri & Yazılım Geliştirme
 
-**Programlama Dilleri:**
-* **Backend:** C#, Java, PHP, Python
-* **Frontend:** JavaScript
-* **Veritabanı:** SQL (Relational Database Management)
+Backend Development:
 
-**Ağ ve Altyapı Yönetimi:**
-* Ağ Temelleri (OSI Modeli, TCP/IP)
-* Router ve Switch Konfigürasyonu
-* Network Topolojileri ve Yönetimi
+C# (.NET ekosistemi)
 
----
+Java (OOP temelli uygulama geliştirme)
 
-### Odak Alanları ve Çalışmalar
+PHP (Sunucu tarafı web uygulamaları)
 
-* **Yazılım Mimarisi:** Nesne tabanlı programlama (OOP) prensipleriyle ölçeklenebilir uygulamalar geliştirme.
-* **Sistem Entegrasyonu:** Yazılım projelerinin ağ altyapılarıyla optimize edilmesi ve sunucu tarafı yönetimi.
-* **Veri Analizi:** Karmaşık veri setlerinin SQL üzerinden yönetilmesi ve işlenmesi.
+Python (Algoritma, otomasyon ve veri işleme)
 
----
+Frontend Development:
 
-### GitHub İstatistikleri
+JavaScript (Dinamik web arayüzleri geliştirme)
 
-![Electusys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Electusys&show_icons=true&theme=transparent&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Electusys&layout=compact&theme=transparent)
+Veritabanı Yönetimi:
 
----
+SQL (İlişkisel Veritabanı Yönetim Sistemleri)
 
-### İletişim ve Ağ
+Veri modelleme ve normalizasyon prensipleri
 
-Projelerim hakkında teknik detay sormak veya iş birliği sağlamak için LinkedIn üzerinden bağlantı kurabilirsiniz.
+Sorgu optimizasyonu ve performans analizi
 
-[LinkedIn Profiliniz](https://linkedin.com/in/KULLANICI_ADIN) | [E-Posta Adresiniz](mailto:EPOSTA@ADRESINIZ.com)
+Ağ ve Sistem Yönetimi
+
+OSI Modeli ve TCP/IP protokol yapısı
+
+Router & Switch konfigürasyonu
+
+VLAN, subnetting ve IP adresleme planlaması
+
+Temel ağ güvenliği prensipleri
+
+Network topolojileri ve performans izleme
+
+Yazılım projelerini ağ altyapısıyla birlikte ele alarak sistem bütünlüğünü koruyan ve güvenliğini ön planda tutan çözümler geliştirmeye odaklanırım.
+
+Uzmanlaşma Alanları
+Yazılım Mimarisi
+
+Nesne Yönelimli Programlama (OOP) prensipleri
+
+Katmanlı mimari tasarımı
+
+Modüler ve sürdürülebilir kod yazımı
+
+Temiz kod ve maintainability yaklaşımı
+
+Sistem Entegrasyonu
+
+Sunucu tarafı yapılandırma süreçleri
+
+Uygulama–altyapı uyumluluğu
+
+Performans ve kaynak optimizasyonu
+
+Veri ve Analitik
+
+Büyük veri setlerinin ilişkisel yapı üzerinden yönetimi
+
+SQL tabanlı analiz ve raporlama
+
+Veri doğrulama ve bütünlük kontrol mekanizmaları
+
+Profesyonel Yaklaşım
+
+Analitik düşünme ve problem çözme odaklı çalışma
+
+Sürekli öğrenme ve teknik gelişim disiplini
+
+Ölçeklenebilir ve güvenli sistem tasarımı
+
+Kod kalitesi ve sistem performansına öncelik verme
+
+GitHub İstatistikleri
+
+
+
+
+Hedefler
+
+Kurumsal seviyede backend sistemler geliştirmek
+
+Ağ altyapısı ve yazılım entegrasyonunda uzmanlaşmak
+
+Güvenli ve yüksek performanslı sistem mimarileri tasarlamak
+
+Uluslararası projelerde aktif rol almak
+
+İletişim
+
+Projelerim hakkında teknik detay almak, iş birliği teklifinde bulunmak veya profesyonel bağlantı kurmak için aşağıdaki kanallardan ulaşabilirsiniz:
+
+LinkedIn Profiliniz
+
+E-Posta Adresiniz
