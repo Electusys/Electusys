@@ -1,107 +1,69 @@
-Yiğit Ali Mercan
-Software Developer | Network Systems & Infrastructure Engineer
+# Electusys
+### Software Developer | Network Systems & Infrastructure Engineer
 
-Çok katmanlı yazılım mimarileri, ağ altyapı sistemleri ve veri yönetimi üzerine uzmanlaşma hedefiyle çalışmalar yürüten bir yazılım geliştiricisiyim.
+Çok katmanlı yazılım mimarileri, ağ altyapı sistemleri ve veri yönetimi üzerine uzmanlaşma hedefiyle çalışmalar yürüten bir yazılım geliştiricisiyim. Yazılım geliştirme süreçlerinde analitik düşünceyi, algoritmik problem çözme yaklaşımını ve sistematik tasarım prensiplerini esas alırım. Uygulama katmanı ile altyapı katmanı arasındaki ilişkiyi bütüncül bir perspektifle ele alarak performans, güvenlik ve ölçeklenebilirlik odaklı çözümler üretirim.
 
-Yazılım geliştirme süreçlerinde analitik düşünceyi, algoritmik problem çözme yaklaşımını ve sistematik tasarım prensiplerini esas alırım. Uygulama katmanı ile altyapı katmanı arasındaki ilişkiyi bütüncül bir perspektifle ele alarak performans, güvenlik ve ölçeklenebilirlik odaklı çözümler üretirim.
+---
 
-Amacım; backend sistemlerden ağ konfigürasyonlarına, veri yönetiminden sistem entegrasyonuna kadar uçtan uca teknik yetkinlik geliştirmek ve kurumsal ölçekte sürdürülebilir sistemler inşa etmektir.
+## 🛠 Teknik Yetkinlik Matrisi
 
-Teknik Yetkinlikler
-Programlama Dilleri & Yazılım Geliştirme
+| Alan | Teknolojiler & Yetkinlikler |
+| :--- | :--- |
+| **Backend Development** | C# (.NET Ekosistemi), Java (OOP), PHP, Python (Automation & Data) |
+| **Frontend Development** | JavaScript (ES6+), HTML5, CSS3 |
+| **Database Management** | SQL, Veri Modelleme, Normalizasyon, Sorgu Optimizasyonu |
+| **Network Administration** | OSI & TCP/IP, Router & Switch Config, VLAN, Subnetting |
+| **System Architecture** | Katmanlı Mimari, Temiz Kod (Clean Code), Tasarım Desenleri |
 
-Backend Development:
+---
 
-C# (.NET ekosistemi)
+## 🌐 Ağ ve Sistem Yönetimi Spesifikasyonları
 
-Java (OOP temelli uygulama geliştirme)
+Uygulama katmanının ötesinde, sistemin koşturduğu fiziksel ve mantıksal altyapıya hakimiyetimle fark yaratıyorum:
 
-PHP (Sunucu tarafı web uygulamaları)
+* **Protokol Seviyesi:** OSI Modeli ve TCP/IP protokol ailesi üzerinde derinlemesine hakimiyet.
+* **Donanım & Yapılandırma:** Kurumsal seviyede Router ve Switch konfigürasyonu, IP adresleme planlaması.
+* **Güvenlik & İzleme:** Network topolojileri oluşturma, temel ağ güvenliği prensipleri ve performans analizi.
+* **Entegrasyon:** Yazılım projelerini ağ altyapısıyla birlikte ele alarak sistem bütünlüğünü koruyan uçtan uca çözümler.
 
-Python (Algoritma, otomasyon ve veri işleme)
+---
 
-Frontend Development:
+## 🎯 Uzmanlaşma ve Odak Alanları
 
-JavaScript (Dinamik web arayüzleri geliştirme)
+### 🏗️ Yazılım Mimarisi & Mühendisliği
+* **SOLID Prensipleri:** Nesne Yönelimli Programlama (OOP) ile modüler ve sürdürülebilir kod yapısı.
+* **Maintainability:** Okunabilir, test edilebilir ve dokümantasyonu güçlü yazılım geliştirme disiplini.
 
-Veritabanı Yönetimi:
+### 💾 Veri Stratejileri
+* **İlişkisel Veri Yönetimi:** Büyük veri setlerinin RDBMS üzerinde yüksek performanslı yönetimi.
+* **Analitik Yaklaşım:** SQL tabanlı raporlama, veri doğrulama ve bütünlük kontrol mekanizmaları.
 
-SQL (İlişkisel Veritabanı Yönetim Sistemleri)
+### ⚙️ Sistem Entegrasyonu
+* Sunucu tarafı yapılandırma süreçleri ve uygulama-altyapı uyumluluk testleri.
+* Kaynak optimizasyonu ile donanım maliyetlerini ve işlem yükünü minimize etme.
 
-Veri modelleme ve normalizasyon prensipleri
+---
 
-Sorgu optimizasyonu ve performans analizi
+## 📊 GitHub Global Statistics
 
-Ağ ve Sistem Yönetimi
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Electusys&show_icons=true&theme=tokyonight&count_private=true" alt="Electusys GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electusys&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-OSI Modeli ve TCP/IP protokol yapısı
+---
 
-Router & Switch konfigürasyonu
+## 🚀 Gelecek Vizyonu & Hedefler
 
-VLAN, subnetting ve IP adresleme planlaması
+* **Enterprise Solutions:** Kurumsal ölçekte yüksek trafikli backend sistemlerin mimarisini üstlenmek.
+* **Infrastructure Synergy:** Yazılım ve ağ altyapısının kesişim kümesinde (DevOps/SRE) uzmanlaşmak.
+* **Global Impact:** Uluslararası standartlarda, güvenliği ön planda tutan yüksek performanslı projelerde yer almak.
 
-Temel ağ güvenliği prensipleri
+---
 
-Network topolojileri ve performans izleme
+## 📫 İletişim & Profesyonel Ağ
 
-Yazılım projelerini ağ altyapısıyla birlikte ele alarak sistem bütünlüğünü koruyan ve güvenliğini ön planda tutan çözümler geliştirmeye odaklanırım.
+Projelerim hakkında teknik detay almak, iş birliği teklifinde bulunmak veya profesyonel bağlantı kurmak için aşağıdaki kanalları kullanabilirsiniz:
 
-Uzmanlaşma Alanları
-Yazılım Mimarisi
-
-Nesne Yönelimli Programlama (OOP) prensipleri
-
-Katmanlı mimari tasarımı
-
-Modüler ve sürdürülebilir kod yazımı
-
-Temiz kod ve maintainability yaklaşımı
-
-Sistem Entegrasyonu
-
-Sunucu tarafı yapılandırma süreçleri
-
-Uygulama–altyapı uyumluluğu
-
-Performans ve kaynak optimizasyonu
-
-Veri ve Analitik
-
-Büyük veri setlerinin ilişkisel yapı üzerinden yönetimi
-
-SQL tabanlı analiz ve raporlama
-
-Veri doğrulama ve bütünlük kontrol mekanizmaları
-
-Profesyonel Yaklaşım
-
-Analitik düşünme ve problem çözme odaklı çalışma
-
-Sürekli öğrenme ve teknik gelişim disiplini
-
-Ölçeklenebilir ve güvenli sistem tasarımı
-
-Kod kalitesi ve sistem performansına öncelik verme
-
-GitHub İstatistikleri
-
-
-
-
-Hedefler
-
-Kurumsal seviyede backend sistemler geliştirmek
-
-Ağ altyapısı ve yazılım entegrasyonunda uzmanlaşmak
-
-Güvenli ve yüksek performanslı sistem mimarileri tasarlamak
-
-Uluslararası projelerde aktif rol almak
-
-İletişim
-
-Projelerim hakkında teknik detay almak, iş birliği teklifinde bulunmak veya profesyonel bağlantı kurmak için aşağıdaki kanallardan ulaşabilirsiniz:
-
-LinkedIn Profiliniz
-
-E-Posta Adresiniz
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fit-ali-mercan-4149572a1/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mercanyigit4@gmail.com)
