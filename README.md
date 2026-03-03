@@ -44,15 +44,6 @@ Uygulama katmanının ötesinde, sistemin koşturduğu fiziksel ve mantıksal al
 
 ---
 
-## 📊 GitHub Global Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Electusys&show_icons=true&theme=tokyonight&count_private=true" alt="Electusys GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electusys&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🚀 Gelecek Vizyonu & Hedefler
 
 * **Enterprise Solutions:** Kurumsal ölçekte yüksek trafikli backend sistemlerin mimarisini üstlenmek.
@@ -66,4 +57,3 @@ Uygulama katmanının ötesinde, sistemin koşturduğu fiziksel ve mantıksal al
 Projelerim hakkında teknik detay almak, iş birliği teklifinde bulunmak veya profesyonel bağlantı kurmak için aşağıdaki kanalları kullanabilirsiniz:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fit-ali-mercan-4149572a1/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mercanyigit4@gmail.com)
