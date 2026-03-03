@@ -1,59 +1,59 @@
 # Electusys
 ### Software Developer | Network Systems & Infrastructure Engineer
 
-Çok katmanlı yazılım mimarileri, ağ altyapı sistemleri ve veri yönetimi üzerine uzmanlaşma hedefiyle çalışmalar yürüten bir yazılım geliştiricisiyim. Yazılım geliştirme süreçlerinde analitik düşünceyi, algoritmik problem çözme yaklaşımını ve sistematik tasarım prensiplerini esas alırım. Uygulama katmanı ile altyapı katmanı arasındaki ilişkiyi bütüncül bir perspektifle ele alarak performans, güvenlik ve ölçeklenebilirlik odaklı çözümler üretirim.
+I am a software developer focused on specializing in multi-layered software architectures, network infrastructure systems, and data management. I base my software development processes on analytical thinking, algorithmic problem-solving, and systematic design principles. By taking a holistic perspective on the relationship between the application and infrastructure layers, I deliver performance-driven, secure, and scalable solutions.
 
 ---
 
-## 🛠 Teknik Yetkinlik Matrisi
+## 🛠 Technical Competency Matrix
 
-| Alan | Teknolojiler & Yetkinlikler |
+| Domain | Technologies & Skills |
 | :--- | :--- |
-| **Backend Development** | C# (.NET Ekosistemi), Java (OOP), PHP, Python (Automation & Data) |
+| **Backend Development** | C# (.NET Ecosystem), Java (OOP), PHP, Python (Automation & Data) |
 | **Frontend Development** | JavaScript (ES6+), HTML5, CSS3 |
-| **Database Management** | SQL, Veri Modelleme, Normalizasyon, Sorgu Optimizasyonu |
+| **Database Management** | SQL, Data Modeling, Normalization, Query Optimization |
 | **Network Administration** | OSI & TCP/IP, Router & Switch Config, VLAN, Subnetting |
-| **System Architecture** | Katmanlı Mimari, Temiz Kod (Clean Code), Tasarım Desenleri |
+| **System Architecture** | Layered Architecture, Clean Code, Design Patterns |
 
 ---
 
-## 🌐 Ağ ve Sistem Yönetimi Spesifikasyonları
+## 🌐 Network & System Management Specifications
 
-Uygulama katmanının ötesinde, sistemin koşturduğu fiziksel ve mantıksal altyapıya hakimiyetimle fark yaratıyorum:
+I differentiate my work by demonstrating mastery over the physical and logical infrastructure where the application layer resides:
 
-* **Protokol Seviyesi:** OSI Modeli ve TCP/IP protokol ailesi üzerinde derinlemesine hakimiyet.
-* **Donanım & Yapılandırma:** Kurumsal seviyede Router ve Switch konfigürasyonu, IP adresleme planlaması.
-* **Güvenlik & İzleme:** Network topolojileri oluşturma, temel ağ güvenliği prensipleri ve performans analizi.
-* **Entegrasyon:** Yazılım projelerini ağ altyapısıyla birlikte ele alarak sistem bütünlüğünü koruyan uçtan uca çözümler.
-
----
-
-## 🎯 Uzmanlaşma ve Odak Alanları
-
-### 🏗️ Yazılım Mimarisi & Mühendisliği
-* **SOLID Prensipleri:** Nesne Yönelimli Programlama (OOP) ile modüler ve sürdürülebilir kod yapısı.
-* **Maintainability:** Okunabilir, test edilebilir ve dokümantasyonu güçlü yazılım geliştirme disiplini.
-
-### 💾 Veri Stratejileri
-* **İlişkisel Veri Yönetimi:** Büyük veri setlerinin RDBMS üzerinde yüksek performanslı yönetimi.
-* **Analitik Yaklaşım:** SQL tabanlı raporlama, veri doğrulama ve bütünlük kontrol mekanizmaları.
-
-### ⚙️ Sistem Entegrasyonu
-* Sunucu tarafı yapılandırma süreçleri ve uygulama-altyapı uyumluluk testleri.
-* Kaynak optimizasyonu ile donanım maliyetlerini ve işlem yükünü minimize etme.
+* **Protocol Level:** Deep understanding of the OSI Model and the TCP/IP protocol suite.
+* **Hardware & Configuration:** Enterprise-level Router and Switch configuration, IP addressing, and subnet planning.
+* **Security & Monitoring:** Establishing network topologies, fundamental network security principles, and performance analysis.
+* **Integration:** Developing end-to-end solutions that maintain system integrity and prioritize security by handling software projects alongside network infrastructure.
 
 ---
 
-## 🚀 Gelecek Vizyonu & Hedefler
+## 🎯 Specialization & Focus Areas
 
-* **Enterprise Solutions:** Kurumsal ölçekte yüksek trafikli backend sistemlerin mimarisini üstlenmek.
-* **Infrastructure Synergy:** Yazılım ve ağ altyapısının kesişim kümesinde (DevOps/SRE) uzmanlaşmak.
-* **Global Impact:** Uluslararası standartlarda, güvenliği ön planda tutan yüksek performanslı projelerde yer almak.
+### 🏗️ Software Architecture & Engineering
+* **SOLID Principles:** Building modular and sustainable code structures using Object-Oriented Programming (OOP).
+* **Maintainability:** A disciplined approach to developing readable, testable, and well-documented software.
+
+### 💾 Data Strategies
+* **Relational Data Management:** High-performance management of large datasets on RDBMS.
+* **Analytical Approach:** SQL-based reporting, data validation, and integrity control mechanisms.
+
+### ⚙️ System Integration
+* Server-side configuration processes and application-infrastructure compatibility testing.
+* Minimizing hardware costs and processing load through resource optimization.
 
 ---
 
-## 📫 İletişim & Profesyonel Ağ
+## 🚀 Future Vision & Goals
 
-Projelerim hakkında teknik detay almak, iş birliği teklifinde bulunmak veya profesyonel bağlantı kurmak için aşağıdaki kanalları kullanabilirsiniz:
+* **Enterprise Solutions:** Architecting high-traffic backend systems at an enterprise level.
+* **Infrastructure Synergy:** Specializing in the intersection of software and network infrastructure (DevOps/SRE).
+* **Global Impact:** Taking an active role in international projects that demand high performance and advanced security standards.
+
+---
+
+## 📫 Communication & Professional Network
+
+You can reach out via the following channels for technical inquiries regarding my projects, collaboration proposals, or professional networking:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fit-ali-mercan-4149572a1/) 
