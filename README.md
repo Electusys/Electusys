@@ -5,7 +5,7 @@ I am a software developer focused on specializing in multi-layered software arch
 
 ---
 
-## 🛠 Technical Competency Matrix
+##  Technical Competency Matrix
 
 | Domain | Technologies & Skills |
 | :--- | :--- |
@@ -17,7 +17,7 @@ I am a software developer focused on specializing in multi-layered software arch
 
 ---
 
-## 🌐 Network & System Management Specifications
+##  Network & System Management Specifications
 
 I differentiate my work by demonstrating mastery over the physical and logical infrastructure where the application layer resides:
 
@@ -28,23 +28,23 @@ I differentiate my work by demonstrating mastery over the physical and logical i
 
 ---
 
-## 🎯 Specialization & Focus Areas
+##  Specialization & Focus Areas
 
-### 🏗️ Software Architecture & Engineering
+###  Software Architecture & Engineering
 * **SOLID Principles:** Building modular and sustainable code structures using Object-Oriented Programming (OOP).
 * **Maintainability:** A disciplined approach to developing readable, testable, and well-documented software.
 
-### 💾 Data Strategies
+###  Data Strategies
 * **Relational Data Management:** High-performance management of large datasets on RDBMS.
 * **Analytical Approach:** SQL-based reporting, data validation, and integrity control mechanisms.
 
-### ⚙️ System Integration
+###  System Integration
 * Server-side configuration processes and application-infrastructure compatibility testing.
 * Minimizing hardware costs and processing load through resource optimization.
 
 ---
 
-## 🚀 Future Vision & Goals
+##  Future Vision & Goals
 
 * **Enterprise Solutions:** Architecting high-traffic backend systems at an enterprise level.
 * **Infrastructure Synergy:** Specializing in the intersection of software and network infrastructure (DevOps/SRE).
@@ -52,7 +52,7 @@ I differentiate my work by demonstrating mastery over the physical and logical i
 
 ---
 
-## 📫 Communication & Professional Network
+##  Communication & Professional Network
 
 You can reach out via the following channels for technical inquiries regarding my projects, collaboration proposals, or professional networking:
 
