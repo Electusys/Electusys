@@ -25,7 +25,6 @@ I focus on designing secure, maintainable, and scalable server-side applications
 | -------------------------- | ------------------------------------------------------------- |
 | **Backend Development**    | C# (.NET Ecosystem), Java, Python, PHP                        |
 | **Database Management**    | MSSQL, SQL, Relational Databases, Query Optimization          |
-| **Frontend Technologies**  | JavaScript (ES6+), HTML5, CSS3                                |
 | **Software Architecture**  | Multi-Layered Architecture, OOP, SOLID Principles, Clean Code |
 | **Development Principles** | Maintainability, Scalability, Modularity, Reusability         |
 | **System Design**          | Backend Logic Design, API Structures, Validation Mechanisms   |
