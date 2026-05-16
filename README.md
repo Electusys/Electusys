@@ -1,59 +1,216 @@
-# Electusys
-### Software Developer | Network Systems & Infrastructure Engineer
+#  Yigit | Software Developer • Backend Architecture & System Engineering
 
-I am a software developer focused on specializing in multi-layered software architectures, network infrastructure systems, and data management. I base my software development processes on analytical thinking, algorithmic problem-solving, and systematic design principles. By taking a holistic perspective on the relationship between the application and infrastructure layers, I deliver performance-driven, secure, and scalable solutions.
-
----
-
-##  Technical Competency Matrix
-
-| Domain | Technologies & Skills |
-| :--- | :--- |
-| **Backend Development** | C# (.NET Ecosystem), Java (OOP), PHP, Python (Automation & Data) |
-| **Frontend Development** | JavaScript (ES6+), HTML5, CSS3 |
-| **Database Management** | SQL, Data Modeling, Normalization, Query Optimization |
-| **Network Administration** | OSI & TCP/IP, Router & Switch Config, VLAN, Subnetting |
-| **System Architecture** | Layered Architecture, Clean Code, Design Patterns |
+> *Building scalable backend systems with clean architecture, performance-oriented logic, and enterprise-grade engineering principles.*
 
 ---
 
-##  Network & System Management Specifications
+##  About Me
 
-I differentiate my work by demonstrating mastery over the physical and logical infrastructure where the application layer resides:
+I am a software developer specializing in **backend engineering**, **multi-layered software architectures**, and **high-performance data management systems**.
+My development philosophy is built on:
 
-* **Protocol Level:** Deep understanding of the OSI Model and the TCP/IP protocol suite.
-* **Hardware & Configuration:** Enterprise-level Router and Switch configuration, IP addressing, and subnet planning.
-* **Security & Monitoring:** Establishing network topologies, fundamental network security principles, and performance analysis.
-* **Integration:** Developing end-to-end solutions that maintain system integrity and prioritize security by handling software projects alongside network infrastructure.
+* Analytical thinking
+* Algorithmic problem-solving
+* Clean architecture
+* Sustainable software engineering
+* Performance-focused system design
 
----
-
-##  Specialization & Focus Areas
-
-###  Software Architecture & Engineering
-* **SOLID Principles:** Building modular and sustainable code structures using Object-Oriented Programming (OOP).
-* **Maintainability:** A disciplined approach to developing readable, testable, and well-documented software.
-
-###  Data Strategies
-* **Relational Data Management:** High-performance management of large datasets on RDBMS.
-* **Analytical Approach:** SQL-based reporting, data validation, and integrity control mechanisms.
-
-###  System Integration
-* Server-side configuration processes and application-infrastructure compatibility testing.
-* Minimizing hardware costs and processing load through resource optimization.
+I focus on designing secure, maintainable, and scalable server-side applications by applying modern engineering principles and structured software methodologies.
 
 ---
 
-##  Future Vision & Goals
+#  Technical Competency Matrix
 
-* **Enterprise Solutions:** Architecting high-traffic backend systems at an enterprise level.
-* **Infrastructure Synergy:** Specializing in the intersection of software and network infrastructure (DevOps/SRE).
-* **Global Impact:** Taking an active role in international projects that demand high performance and advanced security standards.
+| Domain                     | Technologies & Skills                                         |
+| -------------------------- | ------------------------------------------------------------- |
+| **Backend Development**    | C# (.NET Ecosystem), Java, Python, PHP                        |
+| **Database Management**    | MSSQL, SQL, Relational Databases, Query Optimization          |
+| **Frontend Technologies**  | JavaScript (ES6+), HTML5, CSS3                                |
+| **Software Architecture**  | Multi-Layered Architecture, OOP, SOLID Principles, Clean Code |
+| **Development Principles** | Maintainability, Scalability, Modularity, Reusability         |
+| **System Design**          | Backend Logic Design, API Structures, Validation Mechanisms   |
 
 ---
 
-##  Communication & Professional Network
+#  Engineering Mindset
 
-You can reach out via the following channels for technical inquiries regarding my projects, collaboration proposals, or professional networking:
+##  Object-Oriented Programming
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fit-ali-mercan-4149572a1/) 
+Strong understanding of OOP paradigms including:
+
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+
+Designing reusable, extensible, and maintainable software structures.
+
+---
+
+##  Database Engineering
+
+Focused on:
+
+* Efficient relational schema design
+* Structural normalization
+* Query optimization
+* Indexing strategies
+* Transactional integrity
+
+Building scalable and high-performance database systems.
+
+---
+
+##  Security & Validation
+
+Implementing:
+
+* Secure backend workflows
+* Data validation mechanisms
+* Authentication & authorization structures
+* Defensive programming practices
+* Layered application protection systems
+
+---
+
+##  Algorithmic Thinking
+
+Developing optimized solutions for complex business logic through:
+
+* Efficient memory usage
+* Reduced processing overhead
+* Logical abstraction
+* High-performance algorithm structures
+
+---
+
+#  Software Architecture & Engineering
+
+##  SOLID Principles
+
+Applying modern software engineering methodologies to create:
+
+* Modular systems
+* Decoupled architectures
+* Flexible codebases
+* Sustainable enterprise software
+
+---
+
+##  Clean Code Philosophy
+
+Prioritizing:
+
+* Readability
+* Maintainability
+* Scalability
+* Documentation quality
+* Structured development standards
+
+---
+
+#  Data Management & Optimization
+
+| Focus Area                     | Description                                              |
+| ------------------------------ | -------------------------------------------------------- |
+| **Relational Data Management** | Designing structured and optimized RDBMS systems         |
+| **Data Integrity**             | Ensuring transactional consistency and validation        |
+| **Reporting Systems**          | SQL-based analytical reporting and data processing       |
+| **Performance Optimization**   | Minimizing query cost and maximizing response efficiency |
+
+---
+
+#  Performance & Resource Optimization
+
+I prioritize:
+
+* Low-latency backend operations
+* Optimized memory management
+* Reduced server-side overhead
+* Efficient code execution
+* Sustainable scaling strategies
+
+---
+
+#  Current Focus Areas
+
+* Enterprise Backend Engineering
+* API Development & System Integration
+* Distributed Systems
+* Advanced SQL Optimization
+* Scalable System Architecture
+* Clean Architecture Patterns
+* Software Maintainability
+
+---
+
+#  Future Vision
+
+##  Enterprise Solutions
+
+Architecting:
+
+* High-traffic backend infrastructures
+* Enterprise-grade systems
+* Scalable monolithic & microservice architectures
+
+---
+
+##  Advanced Backend Engineering
+
+Deepening expertise in:
+
+* Distributed systems
+* Caching strategies
+* Advanced API design
+* System performance optimization
+* Secure infrastructure development
+
+---
+
+## 🚀 Global Engineering Goals
+
+Aiming to contribute to international engineering teams that demand:
+
+* High performance
+* Reliability
+* Scalability
+* Security-focused development standards
+
+---
+
+# 🛠️ Tech Stack
+
+```txt
+Languages:
+C# • Java • Python • PHP • JavaScript • SQL
+
+Backend:
+.NET Ecosystem • REST APIs • Backend Logic Design
+
+Database:
+MSSQL • Relational Databases • Query Optimization
+
+Architecture:
+OOP • SOLID • Clean Architecture • Multi-Layered Systems
+
+Frontend:
+HTML5 • CSS3 • JavaScript (ES6+)
+```
+
+---
+
+#  Communication & Networking
+
+Feel free to connect with me regarding:
+
+* Software Engineering
+* Backend Development
+* System Architecture
+* Collaboration Opportunities
+* Technical Discussions
+* Open Source Projects
+
+---
+
+> *“Software should not only work — it should scale, endure, and evolve.”*
