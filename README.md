@@ -167,7 +167,7 @@ Deepening expertise in:
 
 ---
 
-## 🚀 Global Engineering Goals
+##  Global Engineering Goals
 
 Aiming to contribute to international engineering teams that demand:
 
@@ -182,7 +182,7 @@ Aiming to contribute to international engineering teams that demand:
 
 ```txt
 Languages:
-C# • Java • Python • PHP • JavaScript • SQL
+C# • ASP.NET • SQL
 
 Backend:
 .NET Ecosystem • REST APIs • Backend Logic Design
@@ -193,8 +193,6 @@ MSSQL • Relational Databases • Query Optimization
 Architecture:
 OOP • SOLID • Clean Architecture • Multi-Layered Systems
 
-Frontend:
-HTML5 • CSS3 • JavaScript (ES6+)
 ```
 
 ---
