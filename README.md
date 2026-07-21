@@ -33,7 +33,9 @@ Engineering   : OOP • Clean Code • System Design
 
 ---
 
+---
+
 ###  Links
 
-- 🌐 Portfolio: [(https://electusys.github.io/portfolio/)]
-- 💼 [LinkedIn](https://www.linkedin.com/in/yi%C4%9Fit-ali-mercan-4149572a1/)
+-  [[Portfolio](https://electusys.github.io/portfolio/)]
+-  [LinkedIn](https://www.linkedin.com/in/yi%C4%9Fit-ali-mercan-4149572a1/)
