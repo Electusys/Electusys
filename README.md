@@ -8,9 +8,9 @@
 
 I am a Computer Programming student and backend-focused developer, specializing in **C#**, **ASP.NET Core**, and **SQL**.
 
-- 🔧 Currently focusing on **.NET Ecosystem**, **relational database design**, and **backend logic**.
-- 📚 Building on **OOP**, **SOLID principles**, and **clean code practices**.
-- 🎯 Goal: growing into a reliable, well-rounded backend engineer through hands-on projects.
+-  Currently focusing on **.NET Ecosystem**, **relational database design**, and **backend logic**.
+-  Building on **OOP**, **SOLID principles**, and **clean code practices**.
+-  Goal: growing into a reliable, well-rounded backend engineer through hands-on projects.
 
 ---
 
