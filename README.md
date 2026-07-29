@@ -29,7 +29,7 @@ Engineering   : OOP • Clean Code • System Design
 
 - **[Personal Finance Tracker](https://github.com/Electusys/Personal-Finance-Tracker)** — CLI app for tracking income/expenses (Python)
 - **OSINT Tool** *(in progress)* — C#, ASP.NET Core, HttpClient, SQL
-- **Öğretmen Not Sistemi** *(in progress)* — C#, SQL
+- **Student grading system ** *(in progress)* — C#, SQL
 
 ---
 
