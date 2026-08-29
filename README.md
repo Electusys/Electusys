@@ -17,7 +17,7 @@ I am a Computer Programming student and backend-focused developer, specializing 
 ###  Tech Stack & Competencies
 
 ```txt
-Languages     : C# • ASP.NET Core • SQL • Java • Python
+Languages     : C# • ASP.NET Core • SQL 
 Backend       : REST APIs • Backend Logic Design
 Database      : SQL • Relational Database Design • Query Optimization
 Engineering   : OOP • Clean Code • System Design
