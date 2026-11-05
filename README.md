@@ -1,4 +1,4 @@
-<h<div align="center">
+<h><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Hi%20there,%20I'm%20Yigit%20Ali%20Mercan!% 👋&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
