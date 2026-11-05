@@ -174,10 +174,15 @@
 ---
 
 ### 📊 GitHub İstatistiklerim
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Electusys&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Electusys&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="GitHub Streak" width="48%" />
-</div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Electusys&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="GitHub Streak" width="48%" />
-</div>
-</div>
+
+<p align="center">
+  <a href="https://github.com/Electusys">
+    <img src="https://github-readme-stats.vercel.app/api?username=Electusys&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Electusys">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Electusys&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="GitHub Streak" />
+  </a>
+</p>
