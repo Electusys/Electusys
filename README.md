@@ -1,7 +1,5 @@
 # Yiğit Ali Mercan | MCBÜ Bilgisayar Programcılığı Öğrencisi
 
-Temiz ve iyi yapılandırılmış kodlarla backend sistemleri geliştiriyorum.
-
 ## Hakkımda
 
 - Manisa Celal Bayar Üniversitesi'nde (Kırkağaç Meslek Yüksekokulu, 2025–2027) Bilgisayar Programcılığı öğrencisiyim; **C#, ASP.NET Core ve SQL** ile backend geliştirmeye odaklanıyorum.
