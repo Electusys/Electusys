@@ -23,7 +23,7 @@
 - **[Apartman Yönetim Sistemi](https://github.com/Electusys/apartman-yonetim-paneli)**: OOP mimarisiyle oluşturulmuş, MySQL veritabanı entegrasyonuna sahip ve Ubuntu Linux sunucusu üzerinde barındırılan C# masaüstü uygulaması.
 - **[EcoPulse - COP31 Hackathonu](https://github.com/Electusys/EcoPulse)**: Endüstriyel üretim hatlarındaki enerji kaybını ve atık ısıyı tespit eden, bakımı optimize etmek için finansal maliyetleri ve CO2 emisyonlarını hesaplayan gerçek zamanlı izleme sistemi.
 - **[Kişisel Finans Takipçisi](https://github.com/Electusys/Personal-Finance-Tracker)**: Modüler kod yapısına ve JSON depolamaya sahip, gelir ve giderleri takip etmeye yarayan Python CLI uygulaması.
-- **[Yapılacaklar Listesi]([https://github.com/Electusys/python-todo-list])**: Günlük görevleri eklemek, listelemek ve takip etmek için temiz ve yapılandırılmış bir kod tabanıyla geliştirilmiş Python görev yönetim uygulaması.
+- **[Yapılacaklar Listesi](https://github.com/Electusys/python-todo-list)**: Günlük görevleri eklemek, listelemek ve takip etmek için temiz ve yapılandırılmış bir kod tabanıyla geliştirilmiş Python görev yönetim uygulaması.
 
 ## Sertifikalar
 
