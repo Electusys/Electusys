@@ -1,43 +1,40 @@
-# Yiğit Ali Mercan | Computer Programming Student at MCBU 
+# Yiğit Ali Mercan | MCBÜ Bilgisayar Programcılığı Öğrencisi
 
-Building backend systems with clean, well-structured code.
+Temiz ve iyi yapılandırılmış kodlarla backend sistemleri geliştiriyorum.
 
-## About Me
+## Hakkımda
 
-- Computer Programming student at Manisa Celal Bayar University (Kırkağaç Vocational School, 2025–2027), focused on backend development with **C#, ASP.NET Core, and SQL**.
-- Currently deepening my knowledge of the .NET ecosystem, relational database design, and backend logic.
-- Practicing OOP and clean code through hands-on projects.
-- Goal: grow into a reliable, well-rounded backend engineer.
-- Open to internships and part-time software development opportunities.
+- Manisa Celal Bayar Üniversitesi'nde (Kırkağaç Meslek Yüksekokulu, 2025–2027) Bilgisayar Programcılığı öğrencisiyim; **C#, ASP.NET Core ve SQL** ile backend geliştirmeye odaklanıyorum.
+- Şu anda .NET ekosistemi, ilişkisel veritabanı tasarımı ve backend mantığı konusundaki bilgimi derinleştiriyorum.
+- Uygulamalı projeler üzerinden OOP ve temiz kod (clean code) pratikleri yapıyorum.
+- Hedef: Güvenilir, çok yönlü bir backend mühendisi olarak gelişmek.
+- Staj ve yarı zamanlı yazılım geliştirme fırsatlarına açığım.
 
-## Tech Stack
+## Teknoloji Yığını
 
-- **Languages:** C#, SQL, Python, HTML/CSS
-- **Frameworks & Tools:** ASP.NET Core MVC, MySQL, Git/GitHub, Linux (Ubuntu)
-- **Currently learning:** REST APIs, relational database design
+- **Diller:** C#, SQL, Python, HTML/CSS
+- **Framework'ler ve Araçlar:** ASP.NET Core MVC, MySQL, Git/GitHub, Linux (Ubuntu)
+- **Şu anda öğreniyorum:** REST API'ler, ilişkisel veritabanı tasarımı
 
-## Hackathons & Events
+## Hackathonlar ve Etkinlikler
 
-- **COP31 Green Transition Hackathon (Nov 2026)**: Competed and developed the *EcoPulse* project to track industrial energy waste and carbon emissions.
+- **COP31 Yeşil Dönüşüm Hackathonu (Kasım 2026)**: Endüstriyel enerji israfını ve karbon emisyonlarını takip etmek amacıyla *EcoPulse* projesini geliştirerek yarıştım.
 
-## Projects
+## Projeler
 
-- **[Apartment Management System](https://github.com/Electusys/apartman-yonetim-paneli)**: C# desktop application built with OOP architecture, featuring MySQL database integration and hosted on an Ubuntu Linux server.
-- **[EcoPulse - COP31 Hackathon](https://github.com/Electusys/EcoPulse)**: Real-time monitoring system that detects energy loss and waste heat in industrial production lines, calculating financial costs and CO2 emissions to optimize maintenance.
-- **[Personal Finance Tracker](https://github.com/Electusys/Personal-Finance-Tracker)**: Python CLI app for tracking income and expenses, with a modular code structure and JSON storage.
+- **[Apartman Yönetim Sistemi](https://github.com/Electusys/apartman-yonetim-paneli)**: OOP mimarisiyle oluşturulmuş, MySQL veritabanı entegrasyonuna sahip ve Ubuntu Linux sunucusu üzerinde barındırılan C# masaüstü uygulaması.
+- **[EcoPulse - COP31 Hackathonu](https://github.com/Electusys/EcoPulse)**: Endüstriyel üretim hatlarındaki enerji kaybını ve atık ısıyı tespit eden, bakımı optimize etmek için finansal maliyetleri ve CO2 emisyonlarını hesaplayan gerçek zamanlı izleme sistemi.
+- **[Kişisel Finans Takipçisi](https://github.com/Electusys/Personal-Finance-Tracker)**: Modüler kod yapısına ve JSON depolamaya sahip, gelir ve giderleri takip etmeye yarayan Python CLI uygulaması.
+- **[Yapılacaklar Listesi]([https://github.com/Electusys/python-todo-list])**: Günlük görevleri eklemek, listelemek ve takip etmek için temiz ve yapılandırılmış bir kod tabanıyla geliştirilmiş Python görev yönetim uygulaması.
 
-**Planned**
-- **OSINT Tool**: C#, ASP.NET Core, HttpClient, SQL
-- **Student Grading System**: C#, SQL
+## Sertifikalar
 
-## Certificates
+- BTK Akademi: ASP.NET Core MVC (Aralık 2025)
+- BTK Akademi: Python Programlama, Başlangıçtan İleri Seviyeye (Aralık 2025)
+- BTK Akademi: Git ve GitHub ile Versiyon Kontrolü (Aralık 2025)
+- Coderspace: Teknoloji Zirvesi Sertifikası (Haziran 2026)
 
-- BTK Akademi: ASP.NET Core MVC (Dec 2025)
-- BTK Akademi: Python Programming, Beginner to Advanced (Dec 2025)
-- BTK Akademi: Version Control with Git and GitHub (Dec 2025)
-- Coderspace: Technology Summit Certificate (Jun 2026)
-
-## Links
+## Bağlantılar
 
 - [LinkedIn](https://www.linkedin.com/in/yiğit-ali-mercan-4149572a1)
-- [Portfolio](https://electusys.github.io/portfolio/)
+- [Portfolyo](https://electusys.github.io/portfolio/)
